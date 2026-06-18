@@ -36,8 +36,12 @@ The project demonstrates user authentication, password hashing, token-based auth
 * FastAPI
 * SQLAlchemy
 * SQLite
-* Passlib (bcrypt)
-* Python-Jose (JWT)
+
+### Tools
+
+* Git
+* GitHub
+* Swagger UI
 
 ---
 
